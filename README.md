@@ -39,13 +39,13 @@ Chris@Wunderkind.us | 330.957.1533 | https://www.linkedin.com/in/christopherjone
 
 
 ## Education
-#### 2015 B.B.A in Marketing, Kent State University
+#### B.B.A in Marketing, Kent State University 2015
 - International Collegiate Sales Coach, International Marketing Experience (London / Dublin), International Student Mentor
 - Winner at 13 separate hackathons including Penn Apps, NASA Space Apps, and Kent Hack Enough
 
 
 ## Technical Skills
-**Strong:** Vue.js, Javascript, ES6, Ruby, Rails, Bootstrap, HTML5, CSS3, Git, Cybersecurity
+**Strong:** Vue.js, Javascript, ES6, Ruby, Rails, Bootstrap, HTML5, CSS3, MySQL, Git, Linux, Cybersecurity
 
 **Knowledgeable:** React, Redux, Webpack, Node, Python, C++, Elasticsearch, MongoDB
 
