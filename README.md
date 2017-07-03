@@ -46,6 +46,7 @@ Chris@Wunderkind.us | 330.957.1533 | https://www.linkedin.com/in/christopherjone
 
 ## Technical Skills
 Strong: Vue.js, Javascript, ES6, Ruby, Rails, Bootstrap, HTML5, CSS3, Git, Cybersecurity
+
 Knowledgeable: React, Redux, Webpack, Node, Python, C++, Elasticsearch, MongoDB
 
 
