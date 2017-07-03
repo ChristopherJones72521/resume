@@ -30,7 +30,7 @@ Chris@Wunderkind.us | 330.957.1533 | https://www.linkedin.com/in/christopherjone
 - Direct current was applied by and controlled with Intel Gallileo board and hand made Digital Analog Converter
 
 #### Empowering - Security within your reach ( WINNER: 2015 Fashion Technology Hackathon - 
-Most Aesthetically Pleasing Design )
+#### Most Aesthetically Pleasing Design )
 - Empowering is a ring equipped with a trigger that uses low energy bluetooth to communicate with a companion app on the wearer's phone
 - This app will send out a distress signal to a predefined list of emergency contacts with their GPS coordinates
 
