@@ -35,7 +35,7 @@ Chris@Wunderkind.us | 330.957.1533 | https://www.linkedin.com/in/christopherjone
 
 #### Space Hugs ( WINNER: 2015 NASA Space Apps - People's Choice Award )
 - Using internet connections and a raspberry pi we can have a user send a message to an astronaut in space, along with a hug
-- A Raspberry Pi wired to an arduino uses servo motors which pull on kevlar threads and create tension, simulating a hug from Earth to space
+- A Raspberry Pi wired to an arduino triggered servo motors which pull on kevlar threads and create tension, simulating a hug from Earth to space
 
 
 ## Education
@@ -47,7 +47,7 @@ Chris@Wunderkind.us | 330.957.1533 | https://www.linkedin.com/in/christopherjone
 ## Technical Skills
 **Strong:** Vue.js, Javascript, ES6, Ruby, Rails, Bootstrap, HTML5, CSS3, MySQL, Git, Linux, Cybersecurity
 
-**Knowledgeable:** React, Redux, Webpack, Node, Python, C++, Elasticsearch, MongoDB
+**Knowledgeable:** React, Redux, Webpack, Node, Elasticsearch, Docker, Ansible, Python, C++
 
 
 ## Fun Facts
