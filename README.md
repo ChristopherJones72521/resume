@@ -8,8 +8,8 @@
 Chris@Wunderkind.us | 330.957.1533 | https://www.linkedin.com/in/christopherjones72521/
 
 ## Career Experience
-#### Securable.io | Software Engineer | Aug/2016 — present
-- Full stack developer using Vue.js, Ruby on Rails, MySql 
+#### Securable.io | Software Engineer / Founding Member | Aug/2016 — present
+- Full stack developer using Vue.js, Ruby on Rails, and MySql 
 - Rapidly prototyped and implemented core application with primary responsibility for UI / UX
 - Created custom integration to identify vulnerable infrastructure associated with an organization's domain name
 
@@ -19,8 +19,8 @@ Chris@Wunderkind.us | 330.957.1533 | https://www.linkedin.com/in/christopherjone
 - Created custom software to analyze streaming-server log data to ascertain listener volume for use in sales and marketing
 
 #### Wunderkind Technologies | President / Co-Founder | Mar/2014 — Dec/2015 
-- Met with clients to establish software requirements and convert these requirements into sprints for development team
-- Managed an international team of developers by setting clear development milestones using Agile methodologies
+- Met with clients to understand their vision and establish product requirements
+- Led an international team of developers by setting clear development milestones using Agile methodologies
 - Consulted with clients regarding product development strategies, prototyping, and eventual product launch
 
 
