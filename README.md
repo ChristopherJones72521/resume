@@ -9,12 +9,12 @@ Chris@Wunderkind.us | 330.957.1533 | https://www.linkedin.com/in/christopherjone
 
 ## Career Experience
 #### Securable.io | Software Engineer / Founding Member | Aug/2016 — present
-- Full stack developer using Vue.js, Ruby on Rails, and MySql 
+- Full stack developer using Vue.js, Ruby on Rails, and MySQL 
 - Rapidly prototyped and implemented core application with primary responsibility for UI / UX
 - Created custom integration to identify vulnerable infrastructure associated with an organization's domain name
 
 #### KRMA Radio | Head of Engineering / Co-Founder | Jun/2015 — Aug/2016
-- Led cross-functional team to develop and launch a low-latency, globally-accessible, streaming infrastructure 
+- Led cross-functional team to develop and launch a low-latency, globally accessible, streaming infrastructure 
 - Developed and maintained customer facing website and streaming infrastructure
 - Created custom software to analyze streaming-server log data to ascertain listener volume for use in sales and marketing
 
@@ -27,15 +27,15 @@ Chris@Wunderkind.us | 330.957.1533 | https://www.linkedin.com/in/christopherjone
 ## Projects
 #### Neur-1 - Selectively modify synaptic transmissions for the purpose of improving cognition
 - A montage of nodes placed around a subject's scalp delivered low levels of direct current
-- Direct current applied via Intel Gallileo board and hand made Digital Analog Converter
+- Direct current applied via Intel Galileo board and hand made Digital Analog Converter
 
 #### Empowering - ( WINNER: 2015 Fashion Technology Hackathon - Most Aesthetically Pleasing Design )
-- Empowering is a ring equipped with a trigger which uses low-energy Bluetooth to communicate with a companion app on the wearer's phone
+- Empowering is a ring equipped with a trigger, which uses low-energy Bluetooth to communicate with a companion app on the wearer's phone
 - This app will send out a distress signal to a predefined list of emergency contacts with their GPS coordinates
 
 #### Space Hugs ( WINNER: 2015 NASA Space Apps - People's Choice Award )
-- Using internet connections and a raspberry pi we can have a user send a message to an astronaut in space, along with a hug
-- A Raspberry Pi wired to an arduino triggered servo motors which pull on kevlar threads and create tension, simulating a hug from Earth to space
+- Using Internet connections and a raspberry pi we can have a user send a message to an astronaut in space, along with a hug
+- A Raspberry Pi wired to an Arduino triggered servomotors, which pull on Kevlar threads and create tension, simulating a hug from Earth to space
 
 
 ## Education
@@ -45,7 +45,7 @@ Chris@Wunderkind.us | 330.957.1533 | https://www.linkedin.com/in/christopherjone
 
 
 ## Technical Skills
-**Strong:** Vue.js, Javascript, ES6, Ruby, Rails, Bootstrap, HTML5, CSS3, MySQL, Git, Linux, Cybersecurity
+**Strong:** Vue.js, JavaScript, ES6, Ruby, Rails, Bootstrap, HTML5, CSS3, MySQL, Git, Linux, Cyber security
 
 **Knowledgeable:** React, Redux, Webpack, Node, Elasticsearch, Docker, Ansible, Python, C++
 
@@ -54,4 +54,5 @@ Chris@Wunderkind.us | 330.957.1533 | https://www.linkedin.com/in/christopherjone
 - I share a birthday with Google
 - Speaker at 2017 Cleveland B-Sides cyber security conference
 - Global finalist for the past four years in a row at NASA Space Apps
+
 
