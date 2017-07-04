@@ -15,7 +15,7 @@ Chris@Wunderkind.us | 330.957.1533 | https://www.linkedin.com/in/christopherjone
 
 #### KRMA Radio | Head of Engineering / Co-Founder | Jun/2015 — Aug/2016
 - Led cross-functional team to develop, launch, and measure a low-latency, globally-accessible streaming infrastructure 
-- Developed and maintained customer facing website, streaming servers, and infrastructure
+- Developed and maintained customer facing website and streaming servers
 - Created custom software to analyze streaming-server log data to ascertain listener volume for use in sales and marketing
 
 #### Wunderkind Technologies | President / Co-Founder | Mar/2014 — Dec/2015 
@@ -27,10 +27,10 @@ Chris@Wunderkind.us | 330.957.1533 | https://www.linkedin.com/in/christopherjone
 ## Projects
 #### Neur-1 - Selectively modify synaptic transmissions for the purpose of improving cognition
 - A montage of nodes placed around a subject's scalp delivered low levels of direct current
-- Direct current applied by and controlled with Intel Gallileo board and hand made Digital Analog Converter
+- Direct current applied via Intel Gallileo board and hand made Digital Analog Converter
 
 #### Empowering - ( WINNER: 2015 Fashion Technology Hackathon - Most Aesthetically Pleasing Design )
-- Empowering is a ring equipped with a trigger that uses low-energy Bluetooth to communicate with a companion app on the wearer's phone
+- Empowering is a ring equipped with a trigger which uses low-energy Bluetooth to communicate with a companion app on the wearer's phone
 - This app will send out a distress signal to a predefined list of emergency contacts with their GPS coordinates
 
 #### Space Hugs ( WINNER: 2015 NASA Space Apps - People's Choice Award )
@@ -39,7 +39,7 @@ Chris@Wunderkind.us | 330.957.1533 | https://www.linkedin.com/in/christopherjone
 
 
 ## Education
-#### B.B.A in Marketing, Kent State University 2015
+#### B.B.A in **Marketing**, Kent State University 2015
 - International Collegiate Sales Coach, International Marketing Experience (London / Dublin), International Student Mentor
 - Winner at 13 separate hackathons including Penn Apps, NASA Space Apps, and Kent Hack Enough
 
