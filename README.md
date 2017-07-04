@@ -14,7 +14,7 @@ Chris@Wunderkind.us | 330.957.1533 | https://www.linkedin.com/in/christopherjone
 - Created custom integration to identify vulnerable infrastructure associated with an organization's domain name
 
 #### KRMA Radio | Head of Engineering / Co-Founder | Jun/2015 — Aug/2016
-- Led cross-functional team to develop and launch a low-latency, globally accessible, streaming infrastructure 
+- Led cross-functional team to develop and launch a globally accessible streaming audio broadcast
 - Developed and maintained customer facing website and streaming infrastructure
 - Created custom software to analyze streaming-server log data to ascertain listener volume for use in sales and marketing
 
@@ -34,7 +34,7 @@ Chris@Wunderkind.us | 330.957.1533 | https://www.linkedin.com/in/christopherjone
 - This app will send out a distress signal to a predefined list of emergency contacts with their GPS coordinates
 
 #### Space Hugs ( WINNER: 2015 NASA Space Apps - People's Choice Award )
-- Using Internet connections and a raspberry pi we can have a user send a message to an astronaut in space, along with a hug
+- Using an Internet connected raspberry pi, users can send a message to an astronaut in space, along with a hug
 - A Raspberry Pi wired to an Arduino triggered servomotors, which pull on Kevlar threads and create tension, simulating a hug from Earth to space
 
 
