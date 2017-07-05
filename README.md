@@ -8,7 +8,7 @@
 Chris@Wunderkind.us | 330.957.1533 | https://www.linkedin.com/in/christopherjones72521/
 
 ## Career Experience
-#### Securable.io | Software Engineer / Founding Member | Aug/2016 — present
+#### Securable.io | Front End Software Engineer / Founding Member | Aug/2016 — present
 - Full stack developer using Vue.js, Ruby on Rails, and MySQL 
 - Rapidly prototyped and implemented core application with primary responsibility for UI / UX
 - Created custom integration to identify vulnerable infrastructure associated with an organization's domain name
