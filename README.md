@@ -25,9 +25,10 @@ Chris@Wunderkind.us | 330.957.1533 | https://www.linkedin.com/in/christopherjone
 
 
 ## Achievements
-- NASA:Space-Apps | 2016 | 1st Place
-- NASA:Space-Apps | 2015 | People’s Choice Award
-- NASA:Space-Apps | 2014 | 1st Place
+- NASA: Space-Apps | 2017 | 2nd Place
+- NASA: Space-Apps | 2016 | 1st Place
+- NASA: Space-Apps | 2015 | People’s Choice Award
+- NASA: Space-Apps | 2014 | 1st Place
 - PennApps | 2015 | American Express Prize
 - PennApps | 2014 | Intel XDK Prize Winner
 - Drive Capital | 2013 | 1st Place Winner
