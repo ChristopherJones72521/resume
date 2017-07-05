@@ -25,17 +25,14 @@ Chris@Wunderkind.us | 330.957.1533 | https://www.linkedin.com/in/christopherjone
 
 
 ## Achievements
-#### Neur-1 - Selectively modify synaptic transmissions for the purpose of improving cognition
-- A montage of nodes placed around a subject's scalp delivered low levels of direct current
-- Direct current applied via Intel Galileo board and hand made Digital Analog Converter
-
-#### Empowering - ( WINNER: 2015 Fashion Technology Hackathon - Most Aesthetically Pleasing Design )
-- Empowering is a ring equipped with a trigger, which uses low-energy Bluetooth to communicate with a companion app on the wearer's phone
-- This app will send out a distress signal to a predefined list of emergency contacts with their GPS coordinates
-
-#### Space Hugs ( WINNER: 2015 NASA Space Apps - People's Choice Award )
-- Using an Internet connected raspberry pi, users can send a message to an astronaut in space, along with a hug
-- A Raspberry Pi wired to an Arduino triggered servomotors, which pull on Kevlar threads and create tension, simulating a hug from Earth to space
+- NASA:Space-Apps | 2016 | 1st Place
+- NASA:Space-Apps | 2015 | People’s Choice Award
+- NASA:Space-Apps | 2014 | 1st Place
+- PennApps | 2015 | American Express Prize
+- PennApps | 2014 | Intel XDK Prize Winner
+- Drive Capital | 2013 | 1st Place Winner
+- Kent Hack Enough | 2013 | 2nd Place Winner
+- FashionTech Hackathon | 2015 | Best Design
 
 
 ## Education
