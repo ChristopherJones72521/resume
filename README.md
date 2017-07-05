@@ -24,7 +24,7 @@ Chris@Wunderkind.us | 330.957.1533 | https://www.linkedin.com/in/christopherjone
 - Consulted with clients regarding product development strategies, market analysis, prototyping, and eventual product launch
 
 
-## Projects
+## Achievements
 #### Neur-1 - Selectively modify synaptic transmissions for the purpose of improving cognition
 - A montage of nodes placed around a subject's scalp delivered low levels of direct current
 - Direct current applied via Intel Galileo board and hand made Digital Analog Converter
