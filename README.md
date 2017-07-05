@@ -25,15 +25,26 @@ Chris@Wunderkind.us | 330.957.1533 | https://www.linkedin.com/in/christopherjone
 
 
 ## Achievements
-- NASA: Space-Apps | 2017 | 2nd Place
-- NASA: Space-Apps | 2016 | 1st Place
-- NASA: Space-Apps | 2015 | People’s Choice Award
-- NASA: Space-Apps | 2014 | 1st Place
-- PennApps | 2015 | American Express Prize
-- PennApps | 2014 | Intel XDK Prize Winner
-- Drive Capital | 2013 | 1st Place Winner
-- Kent Hack Enough | 2013 | 2nd Place Winner
-- FashionTech Hackathon | 2015 | Best Design
+- NASA: Space-Apps | 2017 | Global Finalist | Da Mystery of Space Boxin: Created working
+- prototype of satellite from which a viewer can experience space from an Oculus Rift.
+NASA: Space-Apps | 2017 | Global Finalist | DREAM: Unity simulation which uses actual
+- topographic data from Mars as well as realistic gravity and atmospheric conditions.
+NASA: Space-Apps | 2016 | Global Finalist | Space-Hugs: Constructed garment that would hug an
+- astronaut on the ISS when they received a “hug” via Tweet.
+NASA: Space-Apps | 2015 | Global Finalist | Astroid Mission Simulator: Created a 3D mission
+- simulator using Unity to recreate asteroid mining conditions.
+PennApps | 2015 | American Express Prize | Flipr: Peer-to-peer micro-lending. For our back-end
+  we used Parse, which has a very friendly interaction with the iOS application environment. Our
+- system uses a proprietary algorithm to calculate initial credit-worthiness.
+PennApps | 2014 | Intel XDK Prize Winner | EOS: Agile methodology for life. Uses Agile
+  methodologies and the Pomodoro technique in conjunction with an interface built with Intel XDK
+- to streamline tasks and make increase daily productivity.
+Drive Capital | 2013 | 1st Place Winner | Data Visualization Hack: Presented with the challenge
+  of visualizing hospital patient data into a visually descriptive form. Used Giphy to analyze
+- and present significant relationships between data.
+Kent Hack Enough | 2013 | 2nd Place Winner | Pantomine: Developed an application that would detect color values in a picture and correlate the rbg value to a Pantone value. Used and averaging algorithm in Java to perform color matching calculations and deployed to an Android
+- app.
+FashionTech Hackathon | 2015 | Best Design | Empowering: 3D modeled a ring that communicated via Bluetooth LE with an Android companion app. This ring would notify an emergency contact list if the wearer was in danger
 
 
 ## Education
@@ -42,15 +53,7 @@ Chris@Wunderkind.us | 330.957.1533 | https://www.linkedin.com/in/christopherjone
 - Winner at 13 separate hackathons including Penn Apps, NASA Space Apps, and Kent Hack Enough
 
 
-## Technical Skills
-**Strong:** Vue.js, JavaScript, ES6, Ruby, Rails, Bootstrap, HTML5, CSS3, MySQL, Git, Linux, Cyber security
-
-**Knowledgeable:** React, Redux, Webpack, Node, Elasticsearch, Docker, Ansible, Python, C++
-
-
-## Fun Facts
-- I share a birthday with Google
-- Speaker at 2017 Cleveland B-Sides cyber security conference
-- Global finalist for the past four years in a row at NASA Space Apps
+- **Strong:** Vue.js, JavaScript/ES6, Ruby, Rails, Bootstrap, HTML5, CSS3, MySQL, Git, Linux 
+- **Knowledgeable:** React, Redux, Webpack, Node, Elasticsearch, Docker, Ansible, Python, C++
 
 
