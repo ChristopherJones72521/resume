@@ -25,26 +25,25 @@ Chris@Wunderkind.us | 330.957.1533 | https://www.linkedin.com/in/christopherjone
 
 
 ## Achievements
-- NASA: Space-Apps | 2017 | Global Finalist | Da Mystery of Space Boxin: Created working
-- prototype of satellite from which a viewer can experience space from an Oculus Rift.
-NASA: Space-Apps | 2017 | Global Finalist | DREAM: Unity simulation which uses actual
-- topographic data from Mars as well as realistic gravity and atmospheric conditions.
-NASA: Space-Apps | 2016 | Global Finalist | Space-Hugs: Constructed garment that would hug an
-- astronaut on the ISS when they received a “hug” via Tweet.
-NASA: Space-Apps | 2015 | Global Finalist | Astroid Mission Simulator: Created a 3D mission
-- simulator using Unity to recreate asteroid mining conditions.
-PennApps | 2015 | American Express Prize | Flipr: Peer-to-peer micro-lending. For our back-end
-  we used Parse, which has a very friendly interaction with the iOS application environment. Our
-- system uses a proprietary algorithm to calculate initial credit-worthiness.
-PennApps | 2014 | Intel XDK Prize Winner | EOS: Agile methodology for life. Uses Agile
-  methodologies and the Pomodoro technique in conjunction with an interface built with Intel XDK
-- to streamline tasks and make increase daily productivity.
-Drive Capital | 2013 | 1st Place Winner | Data Visualization Hack: Presented with the challenge
-  of visualizing hospital patient data into a visually descriptive form. Used Giphy to analyze
-- and present significant relationships between data.
-Kent Hack Enough | 2013 | 2nd Place Winner | Pantomine: Developed an application that would detect color values in a picture and correlate the rbg value to a Pantone value. Used and averaging algorithm in Java to perform color matching calculations and deployed to an Android
-- app.
-FashionTech Hackathon | 2015 | Best Design | Empowering: 3D modeled a ring that communicated via Bluetooth LE with an Android companion app. This ring would notify an emergency contact list if the wearer was in danger
+- **NASA: Space-Apps | 2017 | Global Finalist | Da Mystery of Space Boxin:** Created working
+	prototype of satellite from which a viewer can experience space from an Oculus Rift.
+- **NASA: Space-Apps | 2017 | Global Finalist | DREAM:** Unity simulation which uses actual topographic 
+	data from Mars as well as realistic gravity and atmospheric conditions.
+- **NASA: Space-Apps | 2016 | Global Finalist | Space-Hugs:** Constructed garment that would hug an astronaut 
+	on the ISS when they received a “hug” via Tweet.
+- **NASA: Space-Apps | 2015 | Global Finalist | Astroid Mission Simulator:** Created a 3D mission
+	simulator using Unity to recreate asteroid mining conditions.
+- **PennApps | 2015 | American Express Prize | Flipr** Peer-to-peer micro-lending. For our back-end 
+	we used Parse, which has a very friendly interaction with the iOS application environment. 
+- PennApps | 2014 | Intel XDK Prize Winner | EOS: Agile methodology for life. Uses Agile
+	methodologies and the Pomodoro technique in conjunction with an interface built with Intel XDK
+	to streamline tasks and make increase daily productivity.
+- Drive Capital | 2013 | 1st Place Winner | Data Visualization Hack: Presented with the challenge
+	of visualizing hospital patient data into a visually descriptive form. Used Giphy to analyze
+	and present significant relationships between data.
+- Kent Hack Enough | 2013 | 2nd Place Winner | Pantomine: Developed an application that would detect color values in a picture and correlate the rbg 		value to a Pantone value. Used and averaging algorithm in Java to perform color matching calculations and deployed to an Android
+	app.
+- FashionTech Hackathon | 2015 | Best Design | Empowering: 3D modeled a ring that communicated via Bluetooth LE with an Android companion app. This ring would notify an emergency contact list if the wearer was in danger
 
 
 ## Education
